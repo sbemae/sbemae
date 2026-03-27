@@ -1,8 +1,4 @@
-<div align="center">
-  <img width="40%" src="./assets/nnsnodnb.png">
-</div>
 
-----
 
 I'm an iOS applications & Python softwares developer from Japan 🇯🇵
 
